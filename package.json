@@ -1,0 +1,13 @@
+{
+  "name": "html5-e-css3",
+  "version": "0.0.1",
+  "title": "Html5 and Css3 Learning environment",
+  "homepage": "http://",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bower-install": "~1.6.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-imageoptim": "~1.4.1",
+    "grunt-contrib-htmlmin": "~0.4.0"
+  }
+}
